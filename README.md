@@ -50,7 +50,7 @@ pip
 Clone the repo
 bash
 Copy code
-git clone https://github.com/yourusername/AlgoAdvisor.git
+git clone https://github.com/saurav-1980/AlgoAdvisor.git
 cd AlgoAdvisor
 Install dependencies
 bash
